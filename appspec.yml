@@ -1,7 +1,7 @@
 version: 1.0-1.1352  
 os: linux  
 files:  
-  - source: /wordpress.zip
+  - source: /
     destination: /var/www/html
 hooks:  
   BeforeInstall:
